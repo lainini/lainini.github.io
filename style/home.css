@@ -1,10 +1,10 @@
 @font-face {
     font-family: "icon";
-    src: url('/fonts/svgfont/icomoon.eot');
-    src: url('/fonts/svgfont/icomoon.eot') format('embedded-opentype'),
-        url('/fonts/svgfont/icomoon.ttf') format('truetype'),
-        url('/fonts/svgfont/icomoon.woff') format('woff'),
-        url('/fonts/svgfont/icomoon.svg') format('svg');
+    src: url('fonts/svgfont/icomoon.eot');
+    src: url('fonts/svgfont/icomoon.eot') format('embedded-opentype'),
+        url('fonts/svgfont/icomoon.ttf') format('truetype'),
+        url('fonts/svgfont/icomoon.woff') format('woff'),
+        url('fonts/svgfont/icomoon.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -203,73 +203,73 @@
 }
 
 .bd .content .center ul li:nth-child(1) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -16px -16px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(2) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -78px -16px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(3) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -140px -16px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(4) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -205px -16px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(5) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -17px -88px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(6) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -78px -88px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(7) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -140px -88px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(8) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -205px -88px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(9) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -19px -159px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(10) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -78px -158px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(11) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -140px -155px;
     background-repeat: no-repeat;
 }
 
 .bd .content .center ul li:nth-child(12) i {
-    background-image: url(/images/icons.png);
+    background-image: url(../images/icons.png);
     background-position: -205px -159px;
     background-repeat: no-repeat;
 }
@@ -348,19 +348,19 @@
 }
 
 .section1 ul li:nth-child(1) {
-    background: url(/images/txdao.png) no-repeat 78% center;
+    background: url(../images/txdao.png) no-repeat 78% center;
 }
 
 .section1 ul li:nth-child(2) {
-    background: url(/images/mj.png) no-repeat 78% center;
+    background: url(../images/mj.png) no-repeat 78% center;
 }
 
 .section1 ul li:nth-child(3) {
-    background: url(/images/tx.png) no-repeat 78% center;
+    background: url(../images/tx.png) no-repeat 78% center;
 }
 
 .section1 ul li:nth-child(4) {
-    background: url(/images/watch.png) no-repeat 78% center;
+    background: url(../images/watch.png) no-repeat 78% center;
 }
 
 .guesslike {
@@ -411,37 +411,37 @@
 }
 
 .guesslike .bd li:nth-child(1) .img {
-    background-image: url(/images/bag.png);
+    background-image: url(../images/bag.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .guesslike .bd li:nth-child(2) .img {
-    background-image: url(/images/guo.png);
+    background-image: url(../images/guo.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .guesslike .bd li:nth-child(3) .img {
-    background-image: url(/images/boost.png);
+    background-image: url(../images/boost.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .guesslike .bd li:nth-child(4) .img {
-    background-image: url(/images/right.png);
+    background-image: url(../images/right.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .guesslike .bd li:nth-child(5) .img {
-    background-image: url(/images/phone.png);
+    background-image: url(../images/phone.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .guesslike .bd li:nth-child(6) .img {
-    background-image: url(/images/krean.png);
+    background-image: url(../images/krean.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -494,7 +494,7 @@
     float: left;
     width: 404px;
     height: 100%;
-    background: #b8bddd url(/images/box.png) no-repeat;
+    background: #b8bddd url(../images/box.png) no-repeat;
     background-position: 125px 115px;
 }
 
@@ -533,13 +533,13 @@
     padding-left: 7px;
     height: 205px;
     border-bottom: solid 1px #ededed;
-    background: url(/images/key.png) no-repeat 95px 30px;
+    background: url(../images/key.png) no-repeat 95px 30px;
 }
 
 .box1 .bd .bx2 .bo {
     padding-left: 7px;
     height: 159px;
-    background: url(/images/coat.png) no-repeat 104px 13px;
+    background: url(../images/coat.png) no-repeat 104px 13px;
 }
 
 .box1 .bd .bx3 {
@@ -571,7 +571,7 @@
     padding-left: 50px;
     height: 205px;
     border-bottom: solid 1px #ededed;
-    background: url(/images/gu.png) no-repeat 200px 30px;
+    background: url(../images/gu.png) no-repeat 200px 30px;
 }
 
 .box1 .bd .bx3 .bol {
@@ -580,7 +580,7 @@
     height: 159px;
     padding-left: 7px;
     border-right: solid 1px #ededed;
-    background: url(/images/foote.png) no-repeat 98px 29px;
+    background: url(../images/foote.png) no-repeat 98px 29px;
 
 }
 
@@ -589,7 +589,7 @@
     width: 202.3px;
     height: 159px;
     padding-left: 7px;
-    background: url(/images/co.png) no-repeat 83px 24px;
+    background: url(../images/co.png) no-repeat 83px 24px;
 }
 
 .box1 .bd .bx4 {
@@ -667,7 +667,7 @@
     float: left;
     width: 210px;
     height: 360px;
-    background: #f9f9f9 url(/images/tv.png) no-repeat 27px 177px;
+    background: #f9f9f9 url(../images/tv.png) no-repeat 27px 177px;
 }
 
 .box2 .bd ul li:nth-child(1) ul div {
@@ -693,7 +693,7 @@
     float: left;
     width: 327px;
     height: 360px;
-    background: #aed6d8 url(/images/hu.png) no-repeat 54px 113px;
+    background: #aed6d8 url(../images/hu.png) no-repeat 54px 113px;
 }
 
 .box2 .bd ul li:nth-child(2) p {
@@ -722,7 +722,7 @@
     position: relative;
     height: 180px;
     border-bottom: solid 1px #ededed;
-    background: url(/images/wibe.png) no-repeat 84px 94px;
+    background: url(../images/wibe.png) no-repeat 84px 94px;
 }
 
 .box2 .bd ul li:nth-child(3) .top p {
@@ -739,14 +739,14 @@
 
 .box2 .bd ul li:nth-child(3) .bottom {
     height: 179px;
-    background: url(/images/tv2.png) no-repeat 67px 75px;
+    background: url(../images/tv2.png) no-repeat 67px 75px;
 }
 
 .box2 .bd ul li:nth-child(4) {
     float: left;
     width: 221px;
     height: 360px;
-    background: url(/images/tv3.png) no-repeat 24px 195px;
+    background: url(../images/tv3.png) no-repeat 24px 195px;
     border-right: solid 1px #ededed;
     border-bottom: solid 1px #ededed;
 }
@@ -763,12 +763,12 @@
 .box2 .bd ul li:nth-child(5) .top {
     height: 180px;
     border-bottom: solid 1px #ededed;
-    background: url(/images/kong.png) no-repeat 80px 89px;
+    background: url(../images/kong.png) no-repeat 80px 89px;
 }
 
 .box2 .bd ul li:nth-child(5) .bottom {
     height: 179px;
-    background: url(/images/feng.png) no-repeat 100px 50px;
+    background: url(../images/feng.png) no-repeat 100px 50px;
 }
 
 .box2 .footer {
@@ -777,7 +777,7 @@
     background-color: #f7f7f7;
     margin-top: 23px;
     padding-block: 13px;
-    background: url(/images/floote.png) no-repeat 0px 0px;
+    background: url(../images/floote.png) no-repeat 0px 0px;
 }
 
 .box2 .footer li {
