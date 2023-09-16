@@ -1,0 +1,172 @@
+@font-face {
+    font-family: "icon";
+    src: url('/fonts/svgfont/icomoon.eot');
+    src: url('/fonts/svgfont/icomoon.eot') format('embedded-opentype'),
+        url('/fonts/svgfont/icomoon.ttf') format('truetype'),
+        url('/fonts/svgfont/icomoon.woff') format('woff'),
+        url('/fonts/svgfont/icomoon.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+header .miax {
+    height: 80px;
+    width: 1200px;
+    margin: 0px auto;
+    border-bottom: solid 2px #b1191a;
+    padding-top: 15px;
+}
+
+article {
+    width: 1200px;
+    height: 520px;
+    margin: 0 auto;
+    border: solid 1px #dfdfdf;
+    margin-top: 20px;
+}
+
+article .top {
+    height: 40px;
+    padding-inline: 10px;
+    border-bottom: solid 1px #dfdfdf;
+    background-color: #ececec;
+    color: #5e5e5e;
+}
+
+article .top .rt {
+    float: left;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+article .top .lt {
+    float: right;
+    line-height: 40px;
+    font-size: 14px;
+}
+
+article .top .lt a {
+    color: #b1191a;
+}
+
+article .bottom {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+article .bottom div {
+    padding-block: 10px;
+}
+
+article .bottom label {
+    display: inline-block;
+    width: 95px;
+    text-align: right;
+    line-height: 35px;
+}
+
+article .bottom input {
+    height: 35px;
+    width: 240px;
+    outline: none;
+    border: solid 1px #5e5e5e;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+article .bottom span::before {
+    content: "\e901";
+    font-family: icon;
+    color: #b1191a;
+    vertical-align: middle;
+    padding-right: 4px;
+}
+
+article .bottom span {
+    color: #b1191a;
+}
+
+article .bottom .pass {
+    position: relative;
+    margin-bottom: 35px;
+}
+
+article .bottom .pass .passtyle {
+    position: absolute;
+    right: 260px;
+}
+
+article .bottom .pass .passtyle p {
+    float: left;
+    width: 35px;
+    border-left: solid 1px white;
+    text-align: center;
+    color: white;
+}
+
+article .bottom .check {
+    padding-left: 100px;
+}
+
+article .bottom .check input,
+article .bottom .check label {
+    height: auto;
+    width: auto;
+}
+
+article .bottom .check input {
+    height: 15px;
+    width: 15px;
+    vertical-align: middle;
+}
+
+article .bottom .but input {
+    margin-left: 100px;
+    margin-top: 10px;
+    background-color: #b1191a;
+    color: white;
+    border-radius: 0px;
+    border: none;
+}
+
+footer {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+footer ul {
+    width: 1010px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+footer ul li {
+    float: left;
+    padding-inline: 15px;
+    font-size: 12px;
+}
+
+footer ul li a {
+    color: #999999;
+}
+
+footer ul li:nth-child(n+2) {
+    border-left: solid 1px #999999;
+}
+
+footer p {
+    text-align: center;
+    font-size: 12px;
+    color: #999999;
+    padding-top: 5px;
+    line-height: 17px;
+}
