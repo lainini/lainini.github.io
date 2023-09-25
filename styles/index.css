@@ -5,6 +5,11 @@
     text-decoration: none;
 }
 
+img,
+a {
+    -webkit-touch-callout: none;
+}
+
 html {
     font-size: 10px;
 }
