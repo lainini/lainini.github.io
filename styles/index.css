@@ -8,6 +8,9 @@
 img,
 a {
     -webkit-touch-callout: none;
+}
+
+a {
     -webkit-tap-highlight-color: transparent;
 }
 
